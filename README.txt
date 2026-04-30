@@ -4,7 +4,7 @@ Live Application URL:
 https://workspaceapi-server-production-b330.up.railway.app
 
 GitHub Repository:
-https://github.com/sreejameesa/team-task-manager
+https://github.com/PiyushThakur01/Team_Manager
 
 
 1. Project Overview
@@ -264,6 +264,6 @@ corepack pnpm run db:seed
 12. Submission Checklist
 
 - Live URL: https://workspaceapi-server-production-b330.up.railway.app
-- GitHub Repository Link: https://github.com/sreejameesa/team-task-manager
+- GitHub Repository Link: https://github.com/PiyushThakur01/Team_Manager
 - README.txt: included
 - Demo Video: To be recorded and uploaded separately
